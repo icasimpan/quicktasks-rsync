@@ -2,7 +2,7 @@
 
 *What is this*
 
-Is my personal notes on Drupal, written using with the help of hugo.
+Is my personal notes on Rsync, written using with the help of hugo.
 
 *Adding Blog Post*
 1. Make sure you have hugo installed, refer to https://gohugo.io/getting-started/installing/
