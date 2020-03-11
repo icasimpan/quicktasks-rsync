@@ -1,9 +1,0 @@
-baseURL = "https://ismael.casimpan.com/quicktasks-rsync"
-languageCode = "en-us"
-title = "Quick Tasks: rsync"
-theme = "basics"
-
-[params]
-    author = "Ismael Casimpan"
-    github = "icasimpan"
-    #gitlab = "username2"

@@ -1,6 +1,7 @@
 ---
 title: "Rsync Excluding Inner Folders"
 date: 2018-10-25T09:24:00+08:00
+tags: [rsync, exclude]
 draft: false
 ---
 
@@ -11,4 +12,3 @@ rsync -avz --exclude 'example.com/temp_uploads' example.com /var/www_backups
 NOTE: exclude files are always relative.
 
 details in https://www.thegeekstuff.com/2011/01/rsync-exclude-files-and-folders
-
