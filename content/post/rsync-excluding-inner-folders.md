@@ -9,6 +9,8 @@ In this example, we want to sync example.com except 'example.com/temp_uploads'
 ```
 rsync -avz --exclude 'example.com/temp_uploads' example.com /var/www_backups
 ```
-NOTE: exclude files are always relative.
+NOTE: 
+* exclude files are always relative to current directory.
+* to exclude multiple directories, just use an additional '--exclude' statement.
 
 details in https://www.thegeekstuff.com/2011/01/rsync-exclude-files-and-folders
