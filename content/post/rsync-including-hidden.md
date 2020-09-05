@@ -5,7 +5,7 @@ tags: [rsync, ssh, hidden, dotfiles]
 draft: false
 ---
 
-If you need to rsync those hidden directories or files starting with dot, do it something like below (not the trailing /)
+If you need to rsync those hidden directories or files starting with dot, do it something like below (note the trailing /)
 ```
 rsync -avz -e ssh --progress user@source-server:/somedirA/ somedirB/
 ```
