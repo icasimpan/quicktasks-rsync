@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>key on Rsync | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-rsync/tags/key/</link>
+    <description>Recent content in key on Rsync | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Oct 2018 09:20:07 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-rsync/tags/key/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rsync With Specific Key</title>
+      <link>https://ismael.casimpan.com/quicktasks-rsync/rsync-with-specific-key/</link>
+      <pubDate>Thu, 25 Oct 2018 09:20:07 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-rsync/rsync-with-specific-key/</guid>
+      <description>rsync -Pav -e &amp;quot;ssh -i $HOME/.ssh/somekey&amp;quot; username@hostname:/from/dir/ /to/dir/  </description>
+    </item>
+    
+  </channel>
+</rss>

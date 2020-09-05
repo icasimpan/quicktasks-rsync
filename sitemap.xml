@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-rsync/tags/dotfiles/</loc>
+    <lastmod>2020-06-06T09:21:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-rsync/tags/hidden/</loc>
+    <lastmod>2020-06-06T09:21:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-rsync/post/</loc>
+    <lastmod>2020-06-06T09:21:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-rsync/tags/rsync/</loc>
+    <lastmod>2020-06-06T09:21:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-rsync/rsync-including-hidden/</loc>
+    <lastmod>2020-06-06T09:21:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-rsync/tags/ssh/</loc>
+    <lastmod>2020-06-06T09:21:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-rsync/tags/</loc>
+    <lastmod>2020-06-06T09:21:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-rsync/tags/exclude/</loc>
+    <lastmod>2018-10-25T09:24:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-rsync/rsync-excluding-inner-folders/</loc>
+    <lastmod>2018-10-25T09:24:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-rsync/rsync-via-ssh/</loc>
+    <lastmod>2018-10-25T09:21:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-rsync/tags/key/</loc>
+    <lastmod>2018-10-25T09:20:07+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-rsync/rsync-with-specific-key/</loc>
+    <lastmod>2018-10-25T09:20:07+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ismael.casimpan.com/quicktasks-rsync/</loc>
+    <lastmod>2017-06-26T18:27:58+01:00</lastmod>
+  </url>
+  
+</urlset>

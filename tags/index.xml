@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Rsync | IT Quicktasks</title>
+    <link>https://ismael.casimpan.com/quicktasks-rsync/tags/</link>
+    <description>Recent content in Tags on Rsync | IT Quicktasks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jun 2020 09:21:14 +0800</lastBuildDate>
+    
+	<atom:link href="https://ismael.casimpan.com/quicktasks-rsync/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>dotfiles</title>
+      <link>https://ismael.casimpan.com/quicktasks-rsync/tags/dotfiles/</link>
+      <pubDate>Sat, 06 Jun 2020 09:21:14 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-rsync/tags/dotfiles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hidden</title>
+      <link>https://ismael.casimpan.com/quicktasks-rsync/tags/hidden/</link>
+      <pubDate>Sat, 06 Jun 2020 09:21:14 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-rsync/tags/hidden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rsync</title>
+      <link>https://ismael.casimpan.com/quicktasks-rsync/tags/rsync/</link>
+      <pubDate>Sat, 06 Jun 2020 09:21:14 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-rsync/tags/rsync/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssh</title>
+      <link>https://ismael.casimpan.com/quicktasks-rsync/tags/ssh/</link>
+      <pubDate>Sat, 06 Jun 2020 09:21:14 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-rsync/tags/ssh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exclude</title>
+      <link>https://ismael.casimpan.com/quicktasks-rsync/tags/exclude/</link>
+      <pubDate>Thu, 25 Oct 2018 09:24:00 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-rsync/tags/exclude/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>key</title>
+      <link>https://ismael.casimpan.com/quicktasks-rsync/tags/key/</link>
+      <pubDate>Thu, 25 Oct 2018 09:20:07 +0800</pubDate>
+      
+      <guid>https://ismael.casimpan.com/quicktasks-rsync/tags/key/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
